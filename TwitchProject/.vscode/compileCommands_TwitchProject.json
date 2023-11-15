@@ -1,0 +1,26 @@
+[
+	{
+		"file": "D:\\Development\\Twitch\\twitch-stream-ue5-project\\TwitchProject\\Source\\TwitchProject\\TwitchProject.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Development\\Twitch\\twitch-stream-ue5-project\\TwitchProject\\.vscode\\compileCommands_TwitchProject\\TwitchProject.1.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Development\\Twitch\\twitch-stream-ue5-project\\TwitchProject\\Source\\TwitchProject\\TwitchProject.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Development\\Twitch\\twitch-stream-ue5-project\\TwitchProject\\.vscode\\compileCommands_TwitchProject\\TwitchProject.1.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Development\\Twitch\\twitch-stream-ue5-project\\TwitchProject\\Source\\TwitchProject\\TwitchProject.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Development\\Twitch\\twitch-stream-ue5-project\\TwitchProject\\.vscode\\compileCommands_TwitchProject\\TwitchProject.1.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.3\\Engine\\Source"
+	}
+]

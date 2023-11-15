@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Development\\Twitch\\twitch-stream-ue5-project\\TwitchProject\\Source\\TwitchProject\\TwitchProject.Build.cs",
+		"D:\\Development\\Twitch\\twitch-stream-ue5-project\\TwitchProject\\Source\\TwitchProject.Target.cs",
+		"D:\\Development\\Twitch\\twitch-stream-ue5-project\\TwitchProject\\Source\\TwitchProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

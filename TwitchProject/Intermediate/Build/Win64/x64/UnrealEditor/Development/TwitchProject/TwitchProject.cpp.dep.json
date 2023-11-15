@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\development\\twitch\\twitch-stream-ue5-project\\twitchproject\\source\\twitchproject\\twitchproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\development\\twitch\\twitch-stream-ue5-project\\twitchproject\\intermediate\\build\\win64\\x64\\twitchprojecteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\development\\twitch\\twitch-stream-ue5-project\\twitchproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\twitchproject\\definitions.twitchproject.h",
+            "d:\\development\\twitch\\twitch-stream-ue5-project\\twitchproject\\source\\twitchproject\\twitchproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

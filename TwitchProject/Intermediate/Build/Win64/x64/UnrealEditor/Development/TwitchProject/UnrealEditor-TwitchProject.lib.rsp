@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TwitchProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Development\Twitch\twitch-stream-ue5-project\TwitchProject\Intermediate\Build\Win64\x64\TwitchProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\Development\Twitch\twitch-stream-ue5-project\TwitchProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwitchProject\TwitchProject.cpp.obj"
+"D:\Development\Twitch\twitch-stream-ue5-project\TwitchProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwitchProject\Default.rc2.res"
+/OUT:"D:\Development\Twitch\twitch-stream-ue5-project\TwitchProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwitchProject\UnrealEditor-TwitchProject.lib"

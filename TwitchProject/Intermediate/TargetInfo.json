@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TwitchProject",
+			"Path": "..\\Source\\TwitchProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TwitchProjectEditor",
+			"Path": "..\\Source\\TwitchProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
