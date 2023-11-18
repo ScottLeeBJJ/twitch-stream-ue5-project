@@ -1186,3 +1186,122 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.18-08.08.30:696][677]LogFileHelpers: InternalPromptForCheckoutAndSave took 336 ms
 [2023.11.18-08.08.30:697][677]AssetCheck: New page: Asset Save: Minimal_Default
 [2023.11.18-08.08.30:697][677]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.11.18-08.09.28:077][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.11.18-08.09.28:080][785]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.18-08.09.28:146][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.11.18-08.09.28:157][785]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2023.11.18-08.09.28:157][785]LogSavePackage: Moving '../../../../../Development/Twitch/twitch-stream-ue5-project/TwitchProject/Saved/Minimal_Default8B41ED854D652CB9FF2947B3614861A3.tmp' to '../../../../../Development/Twitch/twitch-stream-ue5-project/TwitchProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.11.18-08.09.28:165][785]LogFileHelpers: All files are already saved.
+[2023.11.18-08.09.28:165][785]LogFileHelpers: Saving map 'Minimal_Default' took 0.040
+[2023.11.18-08.09.28:169][785]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 425 ms)
+[2023.11.18-08.09.28:171][785]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.11.18-08.09.28:171][785]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.11.18-08.09.36:712][518]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.11.18-08.09.36:723][518]LogContentBrowser: Creating deferred item: NewWorld
+[2023.11.18-08.09.36:732][519]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.11.18-08.09.48:031][742]LogContentBrowser: Attempting asset rename: NewWorld -> DevMap
+[2023.11.18-08.09.48:044][742]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-08.09.48:044][742]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-08.09.48:054][742]LogContentBrowser: End creating deferred item NewWorld
+[2023.11.18-08.09.49:920][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.11.18-08.09.53:023][908]LogSlate: Window 'Save Content' being destroyed
+[2023.11.18-08.09.53:031][908]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.18-08.09.53:061][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DevMap" FILE="../../../../../Development/Twitch/twitch-stream-ue5-project/TwitchProject/Content/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.18-08.09.53:064][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.11.18-08.09.53:068][908]LogSavePackage: Moving output files for package: /Game/DevMap
+[2023.11.18-08.09.53:068][908]LogSavePackage: Moving '../../../../../Development/Twitch/twitch-stream-ue5-project/TwitchProject/Saved/DevMap63D62F2540B083F4B9A98B92A493869E.tmp' to '../../../../../Development/Twitch/twitch-stream-ue5-project/TwitchProject/Content/DevMap.umap'
+[2023.11.18-08.09.53:075][908]LogFileHelpers: Saving map 'DevMap' took 0.015
+[2023.11.18-08.09.53:084][908]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 477 ms)
+[2023.11.18-08.09.53:084][908]LogAssetEditorSubsystem: Opening Asset editor for World /Game/DevMap.DevMap
+[2023.11.18-08.09.53:084][908]Cmd: MAP LOAD FILE="../../../../../Development/Twitch/twitch-stream-ue5-project/TwitchProject/Content/DevMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.11.18-08.09.53:085][908]LightingResults: New page: Lighting Build
+[2023.11.18-08.09.53:085][908]LoadErrors: New page: Loading map: DevMap.umap
+[2023.11.18-08.09.53:165][908]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-08.09.53:166][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-08.09.53:166][908]MapCheck: New page: Map Check
+[2023.11.18-08.09.53:166][908]LightingResults: New page: Lighting Build
+[2023.11.18-08.09.53:170][908]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.18-08.09.53:171][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.11.18-08.09.53:172][908]LogWorld: UWorld::CleanupWorld for DevMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-08.09.53:172][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-08.09.53:178][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.11.18-08.09.53:182][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.11.18-08.09.53:183][908]LogAudio: Display: Audio Device (ID: 1) registered with world 'DevMap'.
+[2023.11.18-08.09.53:183][908]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-08.09.53:184][908]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-08.09.53:184][908]LogAIModule: Creating AISystem for world DevMap
+[2023.11.18-08.09.53:196][908]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.18-08.09.53:202][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.11.18-08.09.53:206][908]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.18-08.09.53:206][908]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.073ms to complete.
+[2023.11.18-08.09.53:230][908]AssetCheck: New page: Asset Save: DevMap
+[2023.11.18-08.09.53:230][908]LogContentValidation: Display: Validating /Script/Engine.World /Game/DevMap.DevMap
+[2023.11.18-08.09.53:240][908]LogAutomationController: Ignoring very large delta of 3.40 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.18-08.09.55:286][136]LogEditorViewport: Clicking Background
+[2023.11.18-08.10.04:145][183]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.11.18-08.10.11:691][ 20]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.VolumetricCloud
+[2023.11.18-08.10.11:691][ 20]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.VolumetricCloud
+[2023.11.18-08.10.11:701][ 20]LogActorFactory: Actor Factory spawned Class /Script/Engine.VolumetricCloud as actor: VolumetricCloud /Game/DevMap.DevMap:PersistentLevel.VolumetricCloud_0
+[2023.11.18-08.10.11:701][ 20]LogActorFactory: Actor Factory spawned Class /Script/Engine.VolumetricCloud as actor: VolumetricCloud /Game/DevMap.DevMap:PersistentLevel.VolumetricCloud_0
+[2023.11.18-08.10.12:283][ 80]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.VolumetricCloud
+[2023.11.18-08.10.12:283][ 80]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.VolumetricCloud
+[2023.11.18-08.10.12:284][ 80]LogActorFactory: Actor Factory spawned Class /Script/Engine.VolumetricCloud as actor: VolumetricCloud /Game/DevMap.DevMap:PersistentLevel.VolumetricCloud_1
+[2023.11.18-08.10.12:284][ 80]LogActorFactory: Actor Factory spawned Class /Script/Engine.VolumetricCloud as actor: VolumetricCloud /Game/DevMap.DevMap:PersistentLevel.VolumetricCloud_1
+[2023.11.18-08.10.22:315][225]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.11.18-08.10.22:315][225]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.11.18-08.10.22:317][225]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/DevMap.DevMap:PersistentLevel.DirectionalLight_0
+[2023.11.18-08.10.22:317][225]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/DevMap.DevMap:PersistentLevel.DirectionalLight_0
+[2023.11.18-08.10.23:405][342]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.11.18-08.10.23:405][342]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.11.18-08.10.23:408][342]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/DevMap.DevMap:PersistentLevel.DirectionalLight_1
+[2023.11.18-08.10.23:408][342]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/DevMap.DevMap:PersistentLevel.DirectionalLight_1
+[2023.11.18-08.10.41:420][420]LogEditorViewport: Clicking Background
+[2023.11.18-08.10.50:918][544]Cmd: TRANSACTION UNDO
+[2023.11.18-08.10.50:918][544]LogEditorTransaction: Undo Rotate Elements
+[2023.11.18-08.11.04:088][932]LogEditorViewport: Clicking Background
+[2023.11.18-08.11.14:610][133]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2023.11.18-08.11.14:610][133]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2023.11.18-08.11.14:611][133]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/DevMap.DevMap:PersistentLevel.SkyAtmosphere_0
+[2023.11.18-08.11.14:611][133]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/DevMap.DevMap:PersistentLevel.SkyAtmosphere_0
+[2023.11.18-08.11.17:453][465]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2023.11.18-08.11.17:453][465]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2023.11.18-08.11.17:454][465]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/DevMap.DevMap:PersistentLevel.SkyAtmosphere_1
+[2023.11.18-08.11.17:454][465]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/DevMap.DevMap:PersistentLevel.SkyAtmosphere_1
+[2023.11.18-08.11.27:752][602]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.11.18-08.11.27:752][602]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.11.18-08.11.27:753][602]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/DevMap.DevMap:PersistentLevel.SkyLight_0
+[2023.11.18-08.11.27:753][602]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/DevMap.DevMap:PersistentLevel.SkyLight_0
+[2023.11.18-08.11.28:566][683]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.11.18-08.11.28:566][683]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.11.18-08.11.28:567][683]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/DevMap.DevMap:PersistentLevel.SkyLight_1
+[2023.11.18-08.11.28:567][683]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/DevMap.DevMap:PersistentLevel.SkyLight_1
+[2023.11.18-08.11.34:367][361]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.18-08.11.34:411][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DevMap" FILE="../../../../../Development/Twitch/twitch-stream-ue5-project/TwitchProject/Content/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.18-08.11.34:464][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.11.18-08.11.34:470][361]LogSavePackage: Moving output files for package: /Game/DevMap
+[2023.11.18-08.11.34:470][361]LogSavePackage: Moving '../../../../../Development/Twitch/twitch-stream-ue5-project/TwitchProject/Saved/DevMap256F636D40C1B8AFD29125A8C7C7CED3.tmp' to '../../../../../Development/Twitch/twitch-stream-ue5-project/TwitchProject/Content/DevMap.umap'
+[2023.11.18-08.11.34:477][361]LogFileHelpers: Saving map 'DevMap' took 0.066
+[2023.11.18-08.11.34:489][361]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 599 ms)
+[2023.11.18-08.11.34:490][361]AssetCheck: New page: Asset Save: DevMap
+[2023.11.18-08.11.34:490][361]LogContentValidation: Display: Validating /Script/Engine.World /Game/DevMap.DevMap
+[2023.11.18-08.11.48:891][887]LogEditorViewport: Clicking Background
+[2023.11.18-08.12.12:534][543]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-08.12.16:218][931]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.ExponentialHeightFog
+[2023.11.18-08.12.16:218][931]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.ExponentialHeightFog
+[2023.11.18-08.12.16:218][931]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/DevMap.DevMap:PersistentLevel.ExponentialHeightFog_0
+[2023.11.18-08.12.16:218][931]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/DevMap.DevMap:PersistentLevel.ExponentialHeightFog_0
+[2023.11.18-08.12.17:280][ 49]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.ExponentialHeightFog
+[2023.11.18-08.12.17:281][ 49]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.ExponentialHeightFog
+[2023.11.18-08.12.17:281][ 49]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/DevMap.DevMap:PersistentLevel.ExponentialHeightFog_1
+[2023.11.18-08.12.17:281][ 49]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/DevMap.DevMap:PersistentLevel.ExponentialHeightFog_1
+[2023.11.18-08.12.48:122][651]LogEditorViewport: Clicking Background
+[2023.11.18-08.13.14:070][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.11.18-08.13.14:075][108]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.18-08.13.14:135][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DevMap" FILE="../../../../../Development/Twitch/twitch-stream-ue5-project/TwitchProject/Content/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.18-08.13.14:171][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.11.18-08.13.14:176][108]LogSavePackage: Moving output files for package: /Game/DevMap
+[2023.11.18-08.13.14:176][108]LogSavePackage: Moving '../../../../../Development/Twitch/twitch-stream-ue5-project/TwitchProject/Saved/DevMap16DB0714482E5DBE498837B2D30A1A8A.tmp' to '../../../../../Development/Twitch/twitch-stream-ue5-project/TwitchProject/Content/DevMap.umap'
+[2023.11.18-08.13.14:184][108]LogFileHelpers: Saving map 'DevMap' took 0.048
+[2023.11.18-08.13.14:188][108]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 711 ms)
+[2023.11.18-08.13.14:188][108]AssetCheck: New page: Asset Save: DevMap
+[2023.11.18-08.13.14:188][108]LogContentValidation: Display: Validating /Script/Engine.World /Game/DevMap.DevMap
