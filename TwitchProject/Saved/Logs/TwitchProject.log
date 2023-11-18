@@ -7830,3 +7830,19 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.18-08.43.29:082][665]LogFileHelpers: InternalPromptForCheckoutAndSave took 768 ms (total: 4.17 sec)
 [2023.11.18-08.43.29:088][665]AssetCheck: New page: Asset Save: DevMap
 [2023.11.18-08.43.29:088][665]LogContentValidation: Display: Validating /Script/Engine.World /Game/DevMap.DevMap
+[2023.11.18-08.45.48:001][  4]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.18-08.45.48:001][  4]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.18-08.45.48:001][  4]MaterialEditorStats: Shader Count: 0
+[2023.11.18-08.45.48:102][  6]MaterialEditorStats: Base pass shader: 141 instructions
+[2023.11.18-08.45.48:102][  6]MaterialEditorStats: Base pass vertex shader: 118 instructions
+[2023.11.18-08.45.48:102][  6]MaterialEditorStats: Texture samplers: 2/16
+[2023.11.18-08.45.48:102][  6]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.18-08.45.48:102][  6]MaterialEditorStats: Shader Count: 4
+[2023.11.18-08.45.50:295][264]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.18-08.45.50:295][264]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.18-08.45.50:295][264]MaterialEditorStats: Shader Count: 0
+[2023.11.18-08.45.50:332][266]MaterialEditorStats: Base pass shader: 141 instructions
+[2023.11.18-08.45.50:332][266]MaterialEditorStats: Base pass vertex shader: 118 instructions
+[2023.11.18-08.45.50:332][266]MaterialEditorStats: Texture samplers: 2/16
+[2023.11.18-08.45.50:332][266]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.18-08.45.50:332][266]MaterialEditorStats: Shader Count: 4
